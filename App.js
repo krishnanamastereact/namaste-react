@@ -8,6 +8,7 @@ const myDiv = React.createElement("div",{id:"parent"},[React.createElement("div"
     React.createElement("h2",{},"I am from h2 tag!")    
     ]    
     )]      
-    );          
+    );    
+          
     const root = ReactDOM.createRoot(document.getElementById("root"));      
     root.render(myDiv);

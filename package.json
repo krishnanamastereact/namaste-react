@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React learning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnanamastereact/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnanamastereact/namaste-react/issues"
+  },
+  "homepage": "https://github.com/krishnanamastereact/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
