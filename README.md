@@ -21,3 +21,9 @@
 - Tree Shaking - remove unused codes
 - Different bundle for Dev and Prod
 - npx parcel build index.html
+
+npx parcel index.html
+git add .
+git commit -m "episode 02"
+git push -u origin main
+
