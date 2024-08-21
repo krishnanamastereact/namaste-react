@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
 const myDiv = React.createElement("div",{id:"parent"},[React.createElement("div",{id:"child"},
     [React.createElement("h1",{},"I am from h1 tag!"),    
     React.createElement("h2",{},"I am from h2 tag!")    
